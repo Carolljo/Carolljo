@@ -1,94 +1,122 @@
-# Hi, I'm Carol Joseph 👋
+<h1 align="center">Hi 👋, I'm Carol Joseph</h1>
 
-## AI & Machine Learning Engineer
+<h3 align="center">
+AI Engineer | Machine Learning | Generative AI | FastAPI | Building Production-Ready AI Systems
+</h3>
 
-I'm a BCA graduate passionate about building production-ready AI systems, machine learning solutions, and Generative AI applications. I enjoy solving real-world problems through scalable software and continuously improving my AI engineering skills.
+<p align="center">
+I'm a BCA graduate passionate about building scalable AI applications, Machine Learning solutions, Retrieval-Augmented Generation (RAG) systems, and production-ready AI software.
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
 - 💻 Building end-to-end AI and Machine Learning applications
-- 🤖 Interested in Generative AI, RAG, AI Agents, and MLOps
-- 🌱 Currently learning LLMOps, production AI systems, and cloud deployment
-- 🎯 Looking for opportunities as an AI / Machine Learning Engineer
+- 🤖 Interested in Generative AI, RAG, AI Agents, LLMOps, and MLOps
+- 📚 Currently learning production AI systems, observability, and cloud deployment
+- 🎯 Seeking AI / Machine Learning Engineer opportunities
+- 🌱 Constantly improving my software engineering and AI development skills
 
 ---
 
-## Featured Projects
+# 🛠 Tech Stack
 
-### Enterprise AI Reliability & Observability Platform
-Production-ready AI platform focused on monitoring, evaluation, observability, and reliability for enterprise AI applications.
+### Languages
 
-**Tech:** Python • FastAPI • LangGraph • PostgreSQL • Redis • Docker • OpenAI
-
----
-
-### Hybrid RAG Enterprise Document Retrieval
-Enterprise Retrieval-Augmented Generation system enabling intelligent document search with semantic retrieval.
-
-**Tech:** Python • FastAPI • LangChain • FAISS • OpenAI
-
----
-
-### Predictive Maintenance Intelligence Platform
-Industrial machine failure prediction system with a complete machine learning pipeline and deployment-ready API.
-
-**Tech:** Python • Scikit-learn • XGBoost • FastAPI • AWS
-
----
-
-### HeartGuard
-Machine learning application for cardiovascular disease risk prediction.
-
-**Tech:** Python • Scikit-learn • Streamlit
-
----
-
-## Technical Skills
-
-**Programming**
 - Python
 - SQL
 
-**Machine Learning**
+### Machine Learning
+
 - Scikit-learn
-- XGBoost
 - Pandas
 - NumPy
+- XGBoost
 
-**Generative AI**
+### Generative AI
+
 - LangChain
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
 - OpenAI API
+- RAG
+- Vector Databases
 
-**Backend**
+### Backend
+
 - FastAPI
 - REST APIs
 
-**Databases**
-- PostgreSQL
-- SQLite
+### Cloud & DevOps
 
-**Tools**
+- AWS
+- Docker
 - Git
 - GitHub
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Hybrid RAG Enterprise Document Retrieval
+
+Production-ready Retrieval-Augmented Generation system for enterprise document search and question answering.
+
+**Tech Stack**
+
+- Python
+- FastAPI
+- LangChain
+- FAISS
+- OpenAI
 - Docker
-- VS Code
-- Jupyter Notebook
 
 ---
 
-## Current Focus
+## 🔹 Predictive Maintenance Intelligence Platform
 
-I'm currently focused on building production-quality AI systems that combine machine learning, LLMs, backend engineering, and cloud deployment.
+End-to-end Machine Learning platform that predicts industrial equipment failures using sensor data. Includes preprocessing, feature engineering, model training, explainability, and deployment components.
+
+**Tech Stack**
+
+- Python
+- Scikit-learn
+- FastAPI
+- AWS
+- Pandas
+- NumPy
 
 ---
 
-## Connect
+## 🔹 HeartGuard – Cardiovascular Disease Prediction
 
-- GitHub: https://github.com/Carolljo
-- LinkedIn: *(Coming Soon)*
+Machine Learning application for predicting cardiovascular disease risk from patient health records.
 
-Thanks for visiting my profile!
+**Tech Stack**
+
+- Python
+- Scikit-learn
+- Streamlit
+- Pandas
+
+---
+
+# 🎯 Current Focus
+
+- Production AI Engineering
+- LLMOps
+- AI Observability
+- AI Evaluation
+- Cloud Deployment
+- MLOps
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: caroljoseph2255@gmail.com
+
+💼 LinkedIn: *(Add your LinkedIn URL)*
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
